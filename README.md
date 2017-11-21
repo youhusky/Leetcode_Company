@@ -4,13 +4,13 @@ Welcome to contribute other company's questions based on this format.
 # Table of Company
 To be Continue
 
--[Facebook](#Facebook)  
--[Google](#Google)  
--[Uber](#Uber)  
--[Bloomberg](#Bloomberg)  
--[Microsoft](#Microsoft)  
--[Amazon](#Amazon)  
--[Linkedin](#Linkedin)
+-[Facebook](#facebook)  
+-[Google](#google)  
+-[Uber](#uber)  
+-[Bloomberg](#bloomberg)  
+-[Microsoft](#microsoft)  
+-[Amazon](#amazon)  
+-[Linkedin](#linkedin)
 
 # Facebook 
 Title | Acceptance | Difficulty | Frequency
