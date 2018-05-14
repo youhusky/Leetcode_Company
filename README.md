@@ -1,3 +1,7 @@
+
+# Information
+I already find the job and unsubscribe the membership of Leetcode so this repo is not update for a long time.
+It is valid until 04/2018
 # Leetcode Company Tag
 There is the collection of each company's tag questions on [Leetcode](https://leetcode.com/problemset/all/).
 Welcome to contribute other company's questions based on this format.
