@@ -1,7 +1,7 @@
 
 # Information
-I already find the job and unsubscribe the membership of Leetcode so this repo is not update for a long time.
-It is valid until 04/2018
+Right now I work in Google and would like to give reference for job application. Please send the CV to my email address bozhaoli.usc@gmail.com.  
+Unsubscribed the Leetocode membership so this repo is valid until 04/2018
 # Leetcode Company Tag
 There is the collection of each company's tag questions on [Leetcode](https://leetcode.com/problemset/all/).
 Welcome to contribute other company's questions based on this format.
